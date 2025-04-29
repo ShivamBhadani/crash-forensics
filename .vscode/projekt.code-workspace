@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "arduino",
+			"path": "../../arduino"
+		}
+	],
+	"settings": {}
+}
